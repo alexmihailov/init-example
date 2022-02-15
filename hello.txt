@@ -2,3 +2,4 @@ Hello, GIT!
 Edit
 Edit v2
 Edit in remote-repo
+Edit in remote-repo (branch new)
